@@ -1,0 +1,47 @@
+body
+{
+    background-color: palevioletred;
+}
+.container
+{
+    box-sizing: border-box;
+    width: 600px;
+    background-color: aqua;
+    /* display: flex;
+     */
+     margin: 50px auto;
+    padding: 40px;
+}
+.heading
+{
+    text-align: center;
+}
+#section
+{
+    color: #614AD3;
+}
+h3{
+    padding: 15px;
+    font-size: 25px;
+}
+#date
+{
+    color:#E42C64;
+    
+}
+ul {
+    list-style: none;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+ul a{
+    text-decoration: none;
+    color: #614AD3;
+    font-weight: 800;
+    font-size: 1.2em;
+}
+
+ul a:hover{
+    color:#E42C64;
+}
